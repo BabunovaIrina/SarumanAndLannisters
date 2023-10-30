@@ -1,6 +1,5 @@
-public class Main {
+public class SarumanLannisters {
     public static void main(String[] args) {
-
         final int numberSoldiersLannister = 2470;
         System.out.println("Количество пехотинцев у Ланнистеров - " + numberSoldiersLannister);
 
